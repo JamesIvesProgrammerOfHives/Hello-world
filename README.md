@@ -1,2 +1,2 @@
-# digital-editor
-Code used as a digital editor, automating out human work.
+# Hello-World
+Learning about git and github through a terrible Udemy series
